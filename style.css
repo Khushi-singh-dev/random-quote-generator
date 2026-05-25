@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right, #ff0051cb, #ff3c83cb, #ff83accb);
+    min-height: 100vh;
+    font-family: sans-serif, 'Poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition: background 0.3s ease;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    margin: 10px 0 20px 0;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+#quoteText{
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 80px;
+    padding: 15px 20px;
+    text-align: center;
+    height: 30px;
+}
+
+#quoteAuthor{
+    font-weight: 700;
+    font-size: 16px;
+    margin: 10px auto 20px;
+    padding: 5px 40px;
+    text-align: center;
+}
+
+.btn{
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 700;
+    transition: 0.3s;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    margin: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.btn:hover{
+    transform: scale(1.03);
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.btn:active{
+    transform: scale(0.9);
+}
+
+.msg{
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+select{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    color: rgb(42, 42, 42);
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+}
