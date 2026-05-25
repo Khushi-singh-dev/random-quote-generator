@@ -106,7 +106,7 @@ select{
     backdrop-filter: blur(10px);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     body{
         padding: 15px;
     }
