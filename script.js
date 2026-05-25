@@ -1,11 +1,11 @@
 let colors = [
   "linear-gradient(to right, #ff5733, #ff7151, #ffb593)", 
-  "linear-gradient(to right, #0a7800, #3b7d35, #5b8652)", 
+  "linear-gradient(to right, #10be00, #44ce37, #baffac)", 
   "linear-gradient(to right, #0059ff, #3795ff, #9cd9ff)", 
   "linear-gradient(to right, #ff0090, #ff4bb1, #ff8fcd)", 
   "linear-gradient(to right, #9000ff, #b14aff, #e881ff)", 
   "linear-gradient(to right, #ff0000, #ff4b4b, #ff9e9e)", 
-  "linear-gradient(to right, #f3b600, #caa73d, #ffe284)"];
+  "linear-gradient(to right, #ffbf00, #ffd145, #ffe696)"];
 
 async function getQuote() {
   try{
