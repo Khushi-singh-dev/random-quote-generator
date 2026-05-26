@@ -13,7 +13,10 @@ This project fetches random quotes from an API and displays them with dynamic gr
 ✅ Dynamic gradient background changes  
 ✅ Loading text while fetching quotes  
 ✅ Quote categories support  
-✅ Smooth UI transitions  
+✅ Smooth UI transitions
+✅ Save favorite quotes  
+✅ Favorite Counter
+✅ Copy Quotes
 
 ---
 
@@ -50,6 +53,8 @@ Random-Quote-Generator/
 ├── index.html
 ├── style.css
 ├── script.js
+├── favorites.html
+├── favorites.js
 └── README.md
 ```
 
@@ -67,8 +72,6 @@ Random-Quote-Generator/
 
 ## 🎯 Future Improvements
 
-- Save favorite quotes
-- Dark/light mode
 - Share quotes on social media
 - More quote categories
 
@@ -78,4 +81,3 @@ Random-Quote-Generator/
 
 Khushi Singh
 
-````
