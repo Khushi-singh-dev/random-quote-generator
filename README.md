@@ -28,13 +28,17 @@ This project fetches random quotes from an API and displays them with dynamic gr
 
 ## 📸 Screenshot
 
-```md
-![Project Screenshot](random-quote-gen.jpg)
-```
+Click the image below to view the full screenshot:
+
+[![Project Screenshot](random-quote-gen.jpg)](random-quote-gen.jpg)
 
 ---
 
 ## 🌐 Live Demo
+
+🔗 Click here - https://khushi-singh-dev.github.io/random-quote-generator/
+
+ View the website in your browser
 
 ```md
 https://khushi-singh-dev.github.io/random-quote-generator/
@@ -50,6 +54,7 @@ Random-Quote-Generator/
 ├── index.html
 ├── style.css
 ├── script.js
+├── random-quote-gen.jpg
 └── README.md
 ```
 
@@ -74,8 +79,22 @@ Random-Quote-Generator/
 
 ---
 
+🤝 Connect With Me
+
+GitHub: https://github.com/khushi-singh-dev
+
+LinkedIn: https://linkedin.com/in/khushi-singh-68294028b
+
+YouTube: https://www.youtube.com/@KHUSHISATISHSINGH211
+
+⭐ If you like this project
+
+Don’t forget to star ⭐ the repository and share your feedback!
+
+---
+
 ## 👩‍💻 Author
 
 Khushi Singh
 
-````
+---
