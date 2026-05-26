@@ -104,6 +104,7 @@ select{
     color: rgb(42, 42, 42);
     cursor: pointer;
     backdrop-filter: blur(10px);
+    text-align: center;
 }
 
 @media (max-width: 500px) {
